@@ -9,10 +9,10 @@ Original file is located at
 
 # Despliegue
 
-- Cargamos el modelo
-- Cargamos los datos futuros
-- Preparar los datos futuros
-- Aplicamos el modelo para la predicción
+#- Cargamos el modelo
+#- Cargamos los datos futuros
+#- Preparar los datos futuros
+#- Aplicamos el modelo para la predicción
 
 #Cargamos librerías principales
 
